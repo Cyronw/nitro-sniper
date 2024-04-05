@@ -66,7 +66,7 @@ Once the bot is running and configured, you can use commands in your Discord ser
 
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-![Sniper](https://www.noelshack.com/2024-14-5-1712324668-nitro-sniper.png)
+![Sniper](https://image.noelshack.com/fichiers/2024/14/5/1712324668-nitro-sniper.png)
 
 ## License
 
