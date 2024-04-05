@@ -41,7 +41,7 @@ Here are all the SelfBot commands!
 
 2. Navigate to the directory of the cloned repository:
    ```
-   cd selfbot-discord
+   cd nitro-sniper
    ```
 
 3. Install dependencies:
