@@ -36,7 +36,7 @@ Here are all the SelfBot commands!
 
 1. Clone the GitHub repository:
    ```
-   git clone https://github.com/Zartexw/selfbot-discord.git
+   git clone https://github.com/Zartexw/nitro-sniper
    ```
 
 2. Navigate to the directory of the cloned repository:
