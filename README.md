@@ -49,7 +49,7 @@ Here are all the SelfBot commands!
    npm install
    ```
 
-4. Configure `config.js` with your Discord bot token.
+4. Configure `config.js` with your Discord token.
 
 5. Configure `config.json` with a webhook URL for logs.
 
@@ -60,7 +60,7 @@ Here are all the SelfBot commands!
 
 ## Usage
 
-Once the bot is running and configured, you can use commands in your Discord server according to the provided command list.
+Once the bot is running and configured, you can use commands in your Discord server or Private Message according to the provided command list.
 
 ## Contributing
 
